@@ -20,4 +20,4 @@
   - Time
   - (f) Calc money for each member
   - (f) Export detail of payment: total, member
-  - (f) 
+  - (f) sign in using gmail, facebook
